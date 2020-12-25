@@ -1,7 +1,7 @@
-# SentimentAnalysis
-Sentiment Analysis
+## Sentiment Analysis
 
-1.Kaggle
+
+# 1.Kaggle
 1.1 Korean SA Competition - BDC101
 https://www.kaggle.com/c/korean-sa-competition-bdc101/overview
 
@@ -9,7 +9,9 @@ https://www.kaggle.com/c/korean-sa-competition-bdc101/overview
 https://www.kaggle.com/c/english-sa-competition-bdc101
 
 
-2.출처
+
+# 2.출처
+
 2.1 BERT_영어_오근영.ipynb
 https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sharing
 
